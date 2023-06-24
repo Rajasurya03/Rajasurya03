@@ -1,6 +1,6 @@
 ![logo](https://github.com/Rajasurya03/Rajasurya03/blob/main/Rajasurya-GitHub.png)
-<h1 align="center">Welcome to my GitHub I'm, Rajasurya R</h1>
-<h3 align="center">Software Developer and Student!</h3>
+<h1 align="center">Welcome to my GitHub Repository </h1>
+<h3 align="center">I'm a Software Developer and Student!</h3>
 <br>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
